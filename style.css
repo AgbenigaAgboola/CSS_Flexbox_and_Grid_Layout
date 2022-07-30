@@ -73,6 +73,7 @@ body{
     background-color: transparent;
     border: 1px solid hsla(0, 0%, 100%, 0.75);
     color:  hsla(0, 0%, 100%, 0.75);
+    cursor: pointer;
 }
 
 @media screen and (max-width: 1050px) {
